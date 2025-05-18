@@ -24,6 +24,7 @@ stream-api-practice/
 │       ├── easy/
 │       ├── medium/
 │       └── hard/
+├── .gitignore
 ├── pom.xml
 └── README.md  # - You are here
 ```
